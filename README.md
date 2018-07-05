@@ -1,4 +1,5 @@
-# Multipurpose-Web-Extension
+# Multi Web Addon:
+Multi Web Addon is a combination of some of the web extensions we use in daily life. It includes and AdBlocker, Screenshot Tool and a Weather widget.
 The main objective of this extension is to help people accomplish their tasks fast and easily. It gets all useful add-ons in one place and performs numerous tasks with ease.
  
 Web-Extensions=>
